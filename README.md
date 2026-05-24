@@ -1,2 +1,2 @@
 # playwright-OrangeHRM-practice
-laywright learning exercises and automation framework practice
+Playwright learning exercises and automation framework practice
