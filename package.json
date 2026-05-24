@@ -1,0 +1,22 @@
+{
+  "name": "playwright-orangehrm-practice",
+  "version": "1.0.0",
+  "description": "Playwright learning exercises and automation framework practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testwizard123/playwright-OrangeHRM-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testwizard123/playwright-OrangeHRM-practice/issues"
+  },
+  "homepage": "https://github.com/testwizard123/playwright-OrangeHRM-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
